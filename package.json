@@ -1,0 +1,20 @@
+{
+  "name": "scrape",
+  "version": "1.0.0",
+  "description": "New Scrapper",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Schultz816/scrape.git"
+  },
+  "author": "Corey Schultz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Schultz816/scrape/issues"
+  },
+  "homepage": "https://github.com/Schultz816/scrape#readme"
+}
